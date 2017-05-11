@@ -1,0 +1,6 @@
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\bin\Debug\GraphAndTree.exe.config
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\bin\Debug\GraphAndTree.exe
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\bin\Debug\GraphAndTree.pdb
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\obj\Debug\GraphAndTree.csprojResolveAssemblyReference.cache
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\obj\Debug\GraphAndTree.exe
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\LinkedLists\GraphAndTree\obj\Debug\GraphAndTree.pdb
