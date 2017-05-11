@@ -1,0 +1,6 @@
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\bin\Debug\MergeRange.exe.config
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\bin\Debug\MergeRange.exe
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\bin\Debug\MergeRange.pdb
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\obj\Debug\MergeRange.csprojResolveAssemblyReference.cache
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\obj\Debug\MergeRange.exe
+C:\Users\ezdpvs2\Desktop\MyExperimentsWithTruth\MergeRange\MergeRange\obj\Debug\MergeRange.pdb
